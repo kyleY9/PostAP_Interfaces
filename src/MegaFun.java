@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface MegaFun {
+public interface MegaFun {
+    public void haveMegaFun();
+    public int randomizeFun();
 }
